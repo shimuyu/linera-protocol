@@ -1,6 +1,6 @@
 # Build arguments:
 #
-# - `git_commit` is the hash of the current git commit — used for
+# - `git_commit` is the hash of the current git commit — used forv
 #   versioning information inside the binaries.
 # - `build_date` is the date and time of when the docker image was
 #   built
